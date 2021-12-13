@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+	printf("STARTING THE MAIN INSTALLATION FILE OF VARIN OS...... \n");
 	printf("Hello This Is Deepin Desktop. Welcome!!. I am your helper.I will help you up to install this system!! \n");
 	char reply;
     printf("Reply(As 'y' for yes and 'n' for no):- ");
