@@ -106,6 +106,6 @@ int main()
   {
     printf("Please enter a valid numberERROR.....");
   }
-  
+  printf("This is the end for now we will continue it later \n");
 	return 0;
 }
