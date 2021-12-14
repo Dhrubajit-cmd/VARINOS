@@ -99,6 +99,8 @@ int main()
         else if (a == 'n')      
         {
         	printf("Ok!! as you say.. \n");
+          printf("The operating system installation is now on your own. You can now install the system by your own way and install it according to your need \n");
+          
           
         }
         else  
@@ -110,7 +112,9 @@ int main()
     else
     {
     	printf("Closing the installation script.. \n");
+
     }
+    
   
   
   return 0;
