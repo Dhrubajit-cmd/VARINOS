@@ -106,10 +106,6 @@ int main()
   {
     printf("Please enter a valid numberERROR.....");
   }
-  printf("This is the end for now we will continue it later \n");
-  // Hi this is for git commit..
-  // For further changes in this init system we need some help of other contributers so we can make it a public repo after some changes in it..
-	// This is what we call forking it into a repo
-  printf("This is the final end of this script here that will be updated after the further use of it.. \n");
+  
   return 0;
 }
