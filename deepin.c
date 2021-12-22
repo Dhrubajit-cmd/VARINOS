@@ -209,7 +209,7 @@ int main()
 
     }
    
-    
+    printf("Thank you for using this scipt \n");
   
   
   return 0;
